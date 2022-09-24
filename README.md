@@ -2,7 +2,7 @@
 
 # Loja de tintas
 
-<img src="lojaTintas.png">
+<img src="https://github.com/MarcoTDS/AtividadeAvaliativaVueJS/issues/2#issue-1384721598">
 
 # Pizzômetro
 
